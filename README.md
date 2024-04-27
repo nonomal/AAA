@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __250 🎉
+__AWESOME__ apps counter: __251__ 🎉
 
 ### Contents
 
@@ -708,6 +708,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
 - [x] [GitHub](https://github.com/koreader/koreader)
 - [x] [Official page](https://koreader.rocks/)
+
+### Myne :heart:
+
+<img alt="MyneIcon" height="64" src="https://raw.githubusercontent.com/Pool-Of-Tears/Myne/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.myne)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.starry.myne/)
+- [x] [GitHub](https://github.com/Pool-Of-Tears/Myne)
+- [ ] Official page
 
 ## Email
 
@@ -2161,14 +2170,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/m-i-n-a-r/birday)
 - [ ] Official page
 
-### GreenStash️
+### GreenStash️ :heart:
 
 > Savings Tracker
 
 <img alt="GreenStash️Icon" height="64" src="https://raw.githubusercontent.com/Pool-Of-Tears/GreenStash/main/fastlane/metadata/android/en-US/images/icon.png">
 
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.greenstash)
+- [x] [F-Droid](https://f-droid.org/packages/com.starry.greenstash/)
 - [x] [GitHub](https://github.com/Pool-Of-Tears/GreenStash)
 - [ ] Official page
 
